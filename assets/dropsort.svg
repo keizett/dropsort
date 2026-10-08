@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect x="40" y="40" width="944" height="944" rx="210" fill="#171a20"/>
+  <path d="M180 340c0-44 36-80 80-80h190l82 82h232c44 0 80 36 80 80v250c0 44-36 80-80 80H260c-44 0-80-36-80-80V340z" fill="#2d8cff"/>
+  <path d="M180 405h664v267c0 44-36 80-80 80H260c-44 0-80-36-80-80V405z" fill="#2575e8"/>
+  <rect x="300" y="470" width="92" height="126" rx="14" transform="rotate(-9 300 470)" fill="#fff"/>
+  <rect x="466" y="450" width="92" height="126" rx="14" transform="rotate(3 466 450)" fill="#fff"/>
+  <rect x="632" y="472" width="92" height="126" rx="14" transform="rotate(11 632 472)" fill="#fff"/>
+  <rect x="322" y="520" width="46" height="12" rx="6" transform="rotate(-9 322 520)" fill="#3a8dff"/>
+  <rect x="489" y="505" width="46" height="12" rx="6" transform="rotate(3 489 505)" fill="#3a8dff"/>
+  <rect x="652" y="526" width="46" height="12" rx="6" transform="rotate(11 652 526)" fill="#3a8dff"/>
+  <path d="M512 710V640m0 0-28 28m28-28 28 28" fill="none" stroke="#fff" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
