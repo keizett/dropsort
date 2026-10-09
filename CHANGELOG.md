@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0] - 2026-10-10
+
+### Added
+
+* **Linux build** — DropSort is now built for Linux alongside macOS and Windows.
+* **Jmoji mascot** — a little desktop companion with cursor-tracking eyes and interactive reactions.
+* **Batch Move mode** — choose a source folder and a destination folder to organize files into category subfolders.
+* Improved file organization workflow and interaction feedback.
+
+## [1.0.2]
+
+* Bug fixes and improvements.
+
+
 ## [1.0.1] — 2026-10-09
 
 ### ✨ Added
